@@ -6,8 +6,6 @@
 
 <div align="center">
   <p>🎓 BSc (Hons) Computer Science (Software Engineering) at Kingston University London</a></p>
-  
-  <img src="https://komarev.com/ghpvc/?username=sandarusadishan&label=Profile%20views&color=8A2BE2&style=for-the-badge" alt="sandarusadishan profile views" />
 </div>
 
 ---
